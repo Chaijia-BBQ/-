@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/poetry">
+        <file>Poetry/poetry_75.csv</file>
+    </qresource>
+</RCC>
